@@ -1,0 +1,525 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Physics 1 - Mechanics",
+    "section": "",
+    "text": "about\nI taught the Physics 1 course in Mechanics at the Faculty of Agriculture, Hebrew University, from 2017 to 2021. Although I don’t teach this any longer, I think that the materials I developed for the course might be useful to some. Most of the material found here is in hebrew.",
+    "crumbs": [
+      "about"
+    ]
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Physics 1 - Mechanics",
+    "section": "goals",
+    "text": "goals\nThis basic Physics course has three main goals:\n\nBy the end of this course you will be able to look at the world around you and start describing it in a formal (mathematical) language.\nBy the end of this course you will be able to read a graph and tell the story behind it, i.e., you will translate a formal (mathematical) language into regular speech any human can understand.\nWe will get acquainted with the concept of Energy. This, in my humblest opinion, is one of the most important ideas in Science.",
+    "crumbs": [
+      "about"
+    ]
+  },
+  {
+    "objectID": "index.html#patron-saint",
+    "href": "index.html#patron-saint",
+    "title": "Physics 1 - Mechanics",
+    "section": "patron saint",
+    "text": "patron saint\nGalileo is undoubtedly our hero in this course. Honorable runners-up: Archimedes and Newton.",
+    "crumbs": [
+      "about"
+    ]
+  },
+  {
+    "objectID": "lecture-notes.html",
+    "href": "lecture-notes.html",
+    "title": "lecture notes",
+    "section": "",
+    "text": "Book: I loosely use Halliday & Resnick’s Principles of Physics (11th edtion).\nSoftware: I use Stylus Labs Write to write my classnotes, it is available for Windows, Mac, Linux, Android, and iOS.\nHardware: I use both a Wacom Cintiq 16 and an iPad air.\nLegend:\n lecture notes pdf\n lecture notes source (write) svgz\n powerpoint\n widget in jupyter notebook (might take a while to load…)\n other materials\n animations and gifs\n\n\n\nsubject\nlectures\nother\n\n\n\n\nbasic math\n\n\n\n\nunits\n   \n   \n\n\n1d kinematics\n   \n         \n\n\nvectors\n   \n\n\n\n2d kinematics\n   \n   \n\n\ncircular motion\n   \n   \n\n\nNewton’s laws\n   \n      \n\n\nwork-energy theorem\n   \n   \n\n\npotential energy\n   \n\n\n\npotential energy diagrams\n   \n\n\n\nlinear momentum\n   \n   \n\n\ngravitation\n   \n\n\n\nhydrostatics\n   \n\n\n\nhydrodynamics\n   \n   \n\n\n\nClick here for details on all lectures of the 2021-22 academic year.\nHere are other very nice videos not directly related to any specific topic.",
+    "crumbs": [
+      "topics",
+      "lecture notes"
+    ]
+  },
+  {
+    "objectID": "extra/extra-basic-math.html",
+    "href": "extra/extra-basic-math.html",
+    "title": "extra: basic math",
+    "section": "",
+    "text": "Trigonometry\nI will assume that student in this course have a minimal proficiency in math. Find below some links for basic math that we will need during this course. I will not teach any of these topics, if you feel that you don’t fully know this stuff, please go ahead and study these topics asap.\nKhan Academy\nMichel van Biezen",
+    "crumbs": [
+      "topics",
+      "extra: basic math"
+    ]
+  },
+  {
+    "objectID": "extra/extra-basic-math.html#pre-algebra",
+    "href": "extra/extra-basic-math.html#pre-algebra",
+    "title": "extra: basic math",
+    "section": "Pre-algebra",
+    "text": "Pre-algebra\nArithmetic properties; factors and multiples; fractions; decimals; negative numbers and coordinate plane; rations, rates, proportions; equations, expressions, and inequalities; exponents, radicals, and scientific notation.\nKhan Academy",
+    "crumbs": [
+      "topics",
+      "extra: basic math"
+    ]
+  },
+  {
+    "objectID": "extra/extra-basic-math.html#algebra",
+    "href": "extra/extra-basic-math.html#algebra",
+    "title": "extra: basic math",
+    "section": "Algebra",
+    "text": "Algebra\nMichel van Biezen",
+    "crumbs": [
+      "topics",
+      "extra: basic math"
+    ]
+  },
+  {
+    "objectID": "extra/extra-basic-math.html#עברית",
+    "href": "extra/extra-basic-math.html#עברית",
+    "title": "extra: basic math",
+    "section": "עברית",
+    "text": "עברית\nקיים אתר של אקדמיית קהאן בעברית, כדאי להכיר אותו",
+    "crumbs": [
+      "topics",
+      "extra: basic math"
+    ]
+  },
+  {
+    "objectID": "extra/extra-units.html",
+    "href": "extra/extra-units.html",
+    "title": "extra: units",
+    "section": "",
+    "text": "basic units and prefixes\nUnits for three SI base quantities\nSome prefixes for SI Units that you must remember!",
+    "crumbs": [
+      "topics",
+      "extra: units"
+    ]
+  },
+  {
+    "objectID": "extra/extra-units.html#basic-units-and-prefixes",
+    "href": "extra/extra-units.html#basic-units-and-prefixes",
+    "title": "extra: units",
+    "section": "",
+    "text": "Quantity\nUnit Name\nUnit Symbol\n\n\n\n\nLength [L]\nmeter\nm\n\n\nTime [T]\nsecond\ns\n\n\nMass [M]\nkilogram\nkg\n\n\n\n\n\n\n\nFactor\nPrefix\nSymbol\n\n\n\n\n10^9\ngiga-\nG\n\n\n10^6\nmega-\nM\n\n\n10^3\nkilo-\nk\n\n\n10^{-2}\ncenti-\nc\n\n\n10^{-3}\nmilli-\nm\n\n\n10^{-6}\nmicro-\n\\mu\n\n\n10^{-9}\nnano-\nn",
+    "crumbs": [
+      "topics",
+      "extra: units"
+    ]
+  },
+  {
+    "objectID": "extra/extra-units.html#exponent-rules",
+    "href": "extra/extra-units.html#exponent-rules",
+    "title": "extra: units",
+    "section": "exponent rules",
+    "text": "exponent rules",
+    "crumbs": [
+      "topics",
+      "extra: units"
+    ]
+  },
+  {
+    "objectID": "extra/extra-units.html#volume-and-surface-area",
+    "href": "extra/extra-units.html#volume-and-surface-area",
+    "title": "extra: units",
+    "section": "volume and surface area",
+    "text": "volume and surface area",
+    "crumbs": [
+      "topics",
+      "extra: units"
+    ]
+  },
+  {
+    "objectID": "extra/extra-units.html#horse-sized-duck-or-100-duck-sized-horses",
+    "href": "extra/extra-units.html#horse-sized-duck-or-100-duck-sized-horses",
+    "title": "extra: units",
+    "section": "1 horse-sized duck or 100 duck-sized horses?",
+    "text": "1 horse-sized duck or 100 duck-sized horses?",
+    "crumbs": [
+      "topics",
+      "extra: units"
+    ]
+  },
+  {
+    "objectID": "extra/extra-1d-kinematics.html",
+    "href": "extra/extra-1d-kinematics.html",
+    "title": "extra: 1d kinematics",
+    "section": "",
+    "text": "The Physics Classroom\nThis is an excellent interactive website, with lots of useful exercises:\nDistance vs. Displacement, Acceleration, Name That Motion, Motion Diagrams, Graph That Motion, Match That Graph, Position-Time Graphs - Conceptual Analysis, Position-Time Graphs - Numerical Analysis, Dots and Graphs, Which One Doesn’t Belong?, Free Fall, Up and Down.",
+    "crumbs": [
+      "topics",
+      "extra: 1d kinematics"
+    ]
+  },
+  {
+    "objectID": "extra/extra-1d-kinematics.html#video-lectures",
+    "href": "extra/extra-1d-kinematics.html#video-lectures",
+    "title": "extra: 1d kinematics",
+    "section": "Video Lectures",
+    "text": "Video Lectures\nKhan Academy - One-dimensional motion\nMotion in a Straight Line: Crash Course Physics #1\nMichel van Biezen - Lectures in MOTION IN ONE DIMENSION\nMichel van Biezen - Lectures in Motion in 1 Dimension: GRAPHIC SOLUTIONS",
+    "crumbs": [
+      "topics",
+      "extra: 1d kinematics"
+    ]
+  },
+  {
+    "objectID": "extra/extra-1d-kinematics.html#x-v-a-graphs",
+    "href": "extra/extra-1d-kinematics.html#x-v-a-graphs",
+    "title": "extra: 1d kinematics",
+    "section": "x, v, a graphs",
+    "text": "x, v, a graphs\nDraw the missing curves, with black dots in the same instants in time as in the given curve. All curved lines are parabolas.\nExercise 1 \nExercise 2  \nExercise 3  \nExercise 4  \nExercise 5  \nExercise 6",
+    "crumbs": [
+      "topics",
+      "extra: 1d kinematics"
+    ]
+  },
+  {
+    "objectID": "extra/extra-1d-kinematics.html#match-the-graphs-x-and-v",
+    "href": "extra/extra-1d-kinematics.html#match-the-graphs-x-and-v",
+    "title": "extra: 1d kinematics",
+    "section": "Match the graphs, x and v",
+    "text": "Match the graphs, x and v\nMatch the curve on the left with one of the curves on the right.\nExercise 1 \nExercise 2 \nExercise 3 \nExercise 4 \nExercise 5 \nExercise 6 \nExercise 7 \nExercise 8 \nExercise 9 \nExercise 10 \nExercise 11 \nExercise 12",
+    "crumbs": [
+      "topics",
+      "extra: 1d kinematics"
+    ]
+  },
+  {
+    "objectID": "extra/extra-1d-kinematics.html#oil-drop-patterns",
+    "href": "extra/extra-1d-kinematics.html#oil-drop-patterns",
+    "title": "extra: 1d kinematics",
+    "section": "Oil drop patterns",
+    "text": "Oil drop patterns\nOil drips from a car at fixed time intervals. Match the oil drop pattern the car leaves on the road with the curves on the right. Attention: there might be more than one solution!\nExercise 1 \nExercise 2 \nExercise 3 \nExercise 4 \nExercise 5 \nExercise 6 \nExercise 7 \nExercise 8 \nExercise 9 \nExercise 10 \nExercise 11 \nExercise 12 \nExercise 13 \nExercise 14 \nExercise 15 \nExercise 16 \nExercise 17 \nExercise 18",
+    "crumbs": [
+      "topics",
+      "extra: 1d kinematics"
+    ]
+  },
+  {
+    "objectID": "extra/extra-momentum.html",
+    "href": "extra/extra-momentum.html",
+    "title": "extra: momentum",
+    "section": "",
+    "text": "Momentum, Lecture 1",
+    "crumbs": [
+      "topics",
+      "extra: momentum"
+    ]
+  },
+  {
+    "objectID": "extra/extra-momentum.html#momentum-lecture-2",
+    "href": "extra/extra-momentum.html#momentum-lecture-2",
+    "title": "extra: momentum",
+    "section": "Momentum, Lecture 2",
+    "text": "Momentum, Lecture 2\n\n\nVideos of people flying backwards after being shot: * Bruce Willis (watch the few first seconds) * Uma Thurman * Morgan Freeman (watch from 1:10)",
+    "crumbs": [
+      "topics",
+      "extra: momentum"
+    ]
+  },
+  {
+    "objectID": "extra/extra-momentum.html#momentum-lecture-3",
+    "href": "extra/extra-momentum.html#momentum-lecture-3",
+    "title": "extra: momentum",
+    "section": "Momentum, Lecture 3",
+    "text": "Momentum, Lecture 3\n\n\nVideos of a Newton’s Cradle * Newton’s Cradle with a High-Speed Video Camera * Amazing Demonstration Of A Giant Newton’s Cradle!",
+    "crumbs": [
+      "topics",
+      "extra: momentum"
+    ]
+  },
+  {
+    "objectID": "gifs/cartoons.html",
+    "href": "gifs/cartoons.html",
+    "title": "cartoons",
+    "section": "",
+    "text": "https://www.gocomics.com/calvinandhobbes/2015/01/12 \n\nhttps://xkcd.com/2207/ \n\nhttps://www.smbc-comics.com/comic/2013-06-16 \n\nScience: Abridged Beyond the Point of Usefulness \n\nhttp://www.sciencecartoonsplus.com/gallery/physics/galphys2j.php#",
+    "crumbs": [
+      "the good stuff",
+      "cartoons"
+    ]
+  },
+  {
+    "objectID": "gifs/units.html",
+    "href": "gifs/units.html",
+    "title": "units",
+    "section": "",
+    "text": "Any time you pick up a well shuffled deck, you are almost certainly holding an arrangement of cards that has never before existed and will likely never exist again. 52! \\approx 10^{68}. Suppose a new permutation of 52 cards was drawn every second starting from The Big Bang (13.8 billion years ago). You wouldn’t even be close. To count out all 52! permutations you would need 10^{51} ages of the universe. \n\n\nAny time you pick up a well shuffled deck, you are almost certainly holding an arrangement of cards that has never before existed and will likely never exist again. - Yannay Khaikin pic.twitter.com/afOpu0y7qA\n\n— 〈 Berger | Dillon 〉 (@InertialObservr) September 18, 2019\n\n\nIf you worked every single day, making $5000/day, from the time Columbus sailed to America, to the time you are reading this tweet, you would still not be a billionaire.\nHow much larger/heavier/longer was the Megalodon compared with a great white? \nThis is the mass damper of the Taipei 101 skyscraper: it has a mass of 728 tons and a diameter of 5.4 meters. It helps stabilize the building in high winds and this is the record movement realized during typhoon Soudelor with 160 km/h winds what is the mass density of this ball?\n\n\n\nThis is the mass damper of the Taipei 101 skyscraper: it has a mass of 728 tons and a diameter of 5.4 meters. It helps stabilize the building in high winds and this is the record movement realized during typhoon Soudelor with 160 km/h winds https://t.co/e0MxA0iOG5 pic.twitter.com/xqcbyUNJWs\n\n— Massimo (@Rainmaker1973) September 8, 2018\n\n\n\nhttps://www.youtube.com/watch?v=xqELmBNyWfU\n\n\n\norders of magnitude, from\n\nhttps://twitter.com/Rainmaker1973/status/1125710475378012161",
+    "crumbs": [
+      "the good stuff",
+      "units"
+    ]
+  },
+  {
+    "objectID": "gifs/kinematics.html",
+    "href": "gifs/kinematics.html",
+    "title": "kinematics",
+    "section": "",
+    "text": "Motivation for studying kinematics\nfirefighting airplanes in action, dogs jumping into a car, woman walking the wrong way",
+    "crumbs": [
+      "the good stuff",
+      "kinematics"
+    ]
+  },
+  {
+    "objectID": "gifs/kinematics.html#x-and-y-movements-are-independent",
+    "href": "gifs/kinematics.html#x-and-y-movements-are-independent",
+    "title": "kinematics",
+    "section": "X and Y movements are independent",
+    "text": "X and Y movements are independent\n\n\n\n\n\n\n\n\n\n\n\n\n#PhysicsFactlet (179)The rate of change of position is velocity.The rate of change of velocity is acceleration.The rate of change of acceleration is jerk.The rate of change of jerk is jounce.The rate of change of jounce is crackle.The rate of change of crackle is pop.\n\n— Jacopo Bertolotti (@j_bertolotti) October 8, 2019",
+    "crumbs": [
+      "the good stuff",
+      "kinematics"
+    ]
+  },
+  {
+    "objectID": "gifs/kinematics.html#d-kinematics",
+    "href": "gifs/kinematics.html#d-kinematics",
+    "title": "kinematics",
+    "section": "2d kinematics",
+    "text": "2d kinematics\n\nHarlem Globetrotter Makes Incredible Trick Shot From Plane Flying 70 MPH\n\n\n\n\njumping goats\n\n\n\n\nKevin failed Physics\n\n\nYes, Kevin failed physics and math, but he knew how to build a helluva ramp! 🍺 🥴 pic.twitter.com/8rPrtRmCYy\n\n— 🍺 Hold My Beer 🍺 (@HldMyBeer) August 31, 2021",
+    "crumbs": [
+      "the good stuff",
+      "kinematics"
+    ]
+  },
+  {
+    "objectID": "gifs/kinematics.html#galilean-relativity",
+    "href": "gifs/kinematics.html#galilean-relativity",
+    "title": "kinematics",
+    "section": "Galilean relativity",
+    "text": "Galilean relativity\n\nswimming against the current\n\n\n\n\nMythbusters - Soccer Ball Shot from Truck\nhttps://youtu.be/BLuI118nhzc",
+    "crumbs": [
+      "the good stuff",
+      "kinematics"
+    ]
+  },
+  {
+    "objectID": "gifs/kinematics.html#circular-motion",
+    "href": "gifs/kinematics.html#circular-motion",
+    "title": "kinematics",
+    "section": "Circular motion",
+    "text": "Circular motion\n\nHamster, from https://twitter.com/SJSchauer/status/1186484325451227136?s=09\n\n\n\n\nHuman Loop the Loop with Damien Walters\n\n\n\n\nBall in a pie pan: Testing Experiment\n\n\n\n\nBeer flipping\n\n\n\n\n2001: A Space Odyssey\n\n\n\n\nCentripetal force\nMany forces can take the role of the centripetal force.",
+    "crumbs": [
+      "the good stuff",
+      "kinematics"
+    ]
+  },
+  {
+    "objectID": "gifs/newtons-laws.html",
+    "href": "gifs/newtons-laws.html",
+    "title": "Newton’s laws",
+    "section": "",
+    "text": "Newton’s first law",
+    "crumbs": [
+      "the good stuff",
+      "Newton's laws"
+    ]
+  },
+  {
+    "objectID": "gifs/newtons-laws.html#newtons-first-law",
+    "href": "gifs/newtons-laws.html#newtons-first-law",
+    "title": "Newton’s laws",
+    "section": "",
+    "text": "The fall of the dinosaurs\n\n\n\n\nTrampoline with leaves\n\n\n\n\nAt the Kibo ISS module\n\n\n\n\nRollerblades on a moving table\n\n\nWhat is Inertia?",
+    "crumbs": [
+      "the good stuff",
+      "Newton's laws"
+    ]
+  },
+  {
+    "objectID": "gifs/newtons-laws.html#newtons-second-law",
+    "href": "gifs/newtons-laws.html#newtons-second-law",
+    "title": "Newton’s laws",
+    "section": "Newton’s second law",
+    "text": "Newton’s second law\n\nMan with superhuman strength\n\n\n\n\nInside the ISS\n\n\n\n\nWhack-a-Stack\n\n\n\n\nApollo 15 hammer-feather drop",
+    "crumbs": [
+      "the good stuff",
+      "Newton's laws"
+    ]
+  },
+  {
+    "objectID": "gifs/newtons-laws.html#newtons-third-law",
+    "href": "gifs/newtons-laws.html#newtons-third-law",
+    "title": "Newton’s laws",
+    "section": "Newton’s third law",
+    "text": "Newton’s third law\n\nNewton cartoon\n\n\n\nMotorcycle kicks car",
+    "crumbs": [
+      "the good stuff",
+      "Newton's laws"
+    ]
+  },
+  {
+    "objectID": "gifs/newtons-laws.html#friction",
+    "href": "gifs/newtons-laws.html#friction",
+    "title": "Newton’s laws",
+    "section": "Friction",
+    "text": "Friction\n\nStatic friction\n\n\n\n\nStatic vs. kinetic friction\n\n\n\n\nNo friction on inclined plane\n\n\n\n\nCat fails to jump, not enough friction\n\n\n\n\nSpidergirl",
+    "crumbs": [
+      "the good stuff",
+      "Newton's laws"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html",
+    "href": "gifs/linear-momentum.html",
+    "title": "linear momentum & center of mass",
+    "section": "",
+    "text": "Collisions",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html#collisions",
+    "href": "gifs/linear-momentum.html#collisions",
+    "title": "linear momentum & center of mass",
+    "section": "",
+    "text": "brain during collision\n\n\n\n\ngolf ball\n\n\n\n\nFootball to the Face 1000x Slower - The Slow Mo Guys",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html#elastic-collisions",
+    "href": "gifs/linear-momentum.html#elastic-collisions",
+    "title": "linear momentum & center of mass",
+    "section": "Elastic collisions",
+    "text": "Elastic collisions\n\nfailed collision\n\n\n\n\nbullets ricochet off water\n\n\n\n\nperiodic billiard collision\n\n\n\n\nAlthea Reinhardt’s face save\n{% twitter https://twitter.com/BeardedGenius/status/1472221793595310084 %}",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html#inelastic-collisions",
+    "href": "gifs/linear-momentum.html#inelastic-collisions",
+    "title": "linear momentum & center of mass",
+    "section": "Inelastic collisions",
+    "text": "Inelastic collisions\n\nApple collision at 90 km/h.",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html#center-of-mass",
+    "href": "gifs/linear-momentum.html#center-of-mass",
+    "title": "linear momentum & center of mass",
+    "section": "Center of mass",
+    "text": "Center of mass\n\ncenter of mass parabolic trajectory\n\n\n\n\nJosh Imatorbhebhe vertical jump",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/linear-momentum.html#internal-vs-external-forces",
+    "href": "gifs/linear-momentum.html#internal-vs-external-forces",
+    "title": "linear momentum & center of mass",
+    "section": "Internal vs external forces",
+    "text": "Internal vs external forces\n\nHow to push your pickup truck",
+    "crumbs": [
+      "the good stuff",
+      "linear momentum & center of mass"
+    ]
+  },
+  {
+    "objectID": "gifs/energy.html",
+    "href": "gifs/energy.html",
+    "title": "energy",
+    "section": "",
+    "text": "Elastic energy",
+    "crumbs": [
+      "the good stuff",
+      "energy"
+    ]
+  },
+  {
+    "objectID": "gifs/energy.html#elastic-energy",
+    "href": "gifs/energy.html#elastic-energy",
+    "title": "energy",
+    "section": "",
+    "text": "The First Hold & Release Bungee Jump | Damien Walters\nhttps://youtu.be/iN1beukMJJc",
+    "crumbs": [
+      "the good stuff",
+      "energy"
+    ]
+  },
+  {
+    "objectID": "gifs/energy.html#potential-and-kinetic-energy",
+    "href": "gifs/energy.html#potential-and-kinetic-energy",
+    "title": "energy",
+    "section": "Potential and Kinetic Energy",
+    "text": "Potential and Kinetic Energy\n\nVisualization of conservation of energy\n\n\n\n\nHigh road low road track race, potential-kinetic energy tracks\nhttps://youtu.be/_GJujClGYJQ\n\n\nMondo Duplantis 2018, play at 0.25 speed\n\n\n\n\n150 Ton Hydraulic Guillotine Vs Deck of Cards",
+    "crumbs": [
+      "the good stuff",
+      "energy"
+    ]
+  },
+  {
+    "objectID": "gifs/fluids.html",
+    "href": "gifs/fluids.html",
+    "title": "fluids",
+    "section": "",
+    "text": "Hydrostatic pressure\nHow a 50 kg iron working anvil floats on liquid mercury From https://twitter.com/Rainmaker1973/status/1194215829199605765?s=09",
+    "crumbs": [
+      "the good stuff",
+      "fluids"
+    ]
+  },
+  {
+    "objectID": "gifs/fluids.html#hydrostatic-pressure",
+    "href": "gifs/fluids.html#hydrostatic-pressure",
+    "title": "fluids",
+    "section": "",
+    "text": "Pressure change during diving\n{% twitter https://twitter.com/physicsastronmy/status/1464007031367602181?s=12 %}\n\n\nFish tower\n\n\n\n\nThe Hydrostatic Paradox - Explained!\n\n\n\n\nPascal’s Blaising Barrel - Exploding Glass Barrel with Water Pressure\n\n\n\n\nThe Pressure Paradox #VeritasiumContest #GrandPrizeWinner",
+    "crumbs": [
+      "the good stuff",
+      "fluids"
+    ]
+  },
+  {
+    "objectID": "gifs/fluids.html#surface-tension",
+    "href": "gifs/fluids.html#surface-tension",
+    "title": "fluids",
+    "section": "Surface tension",
+    "text": "Surface tension\nfrom https://twitter.com/Rainmaker1973/status/1191329332926570497?s=09",
+    "crumbs": [
+      "the good stuff",
+      "fluids"
+    ]
+  },
+  {
+    "objectID": "gifs/wow.html",
+    "href": "gifs/wow.html",
+    "title": "wow",
+    "section": "",
+    "text": "rope swing record\ndoes the period of a pendulum depend on its mass? \n\n\nTime-Lapse: Lose Yourself in the Night Sky\n\n\n\n\nfastest response time\nThe kangaroo rat’s escape response to a snake attack is less than 70 milliseconds and the quickest mammalian startle response. \n\n\nSelected solar system objects to scale in size, rotation speed and axial tilt\n\n\n\n\nMilky Way and Earth\nMilky Way spinning around Earth\n\n\nMilky Way fixed, earth spinning round\n\n\n\n\nThe Milky Way Fly Out\nStefan Payne-Wardenaar \n\n\nLeast action, path of bowling ball minimizes action\n\n\n\n\n\n\nA free-falling frame of reference cancels gravity\n{% twitter https://twitter.com/sfera314/status/1173284029900173315 %}\n\n\nMesmerising Mass Sheep Herding\n\n\n\n\n\nSolar eclipse from space\n\n\n\n\n\n\n150 Ton Hydraulic Guillotine Vs Deck of Cards",
+    "crumbs": [
+      "the good stuff",
+      "wow"
+    ]
+  },
+  {
+    "objectID": "exams.html",
+    "href": "exams.html",
+    "title": "exams",
+    "section": "",
+    "text": "Some past exams (in hebrew):\n\n\n\nYear\nMidterm\nMoed A\nMoed B\nMoed C\n\n\n\n\n2021-2022\n   \n   \n   \n\n\n\n2020-2021\n   \n   \n   \n\n\n\n2019-2020\n   \n   \n   \n   \n\n\n2018-2019\n   \n   \n   \n\n\n\n2017-2018",
+    "crumbs": [
+      "exams"
+    ]
+  },
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "more stuff",
+    "section": "",
+    "text": "Physics cartoons\nGreat online Physics resources:\n\nKhan Academy - English\nKhan Academy - עברית\nMichel van Biezen\nWalter Lewin’s 8.01x - MIT Physics I: Classical Mechanics\nPhET: fun, free, interactive, research-based science and mathematics simulations",
+    "crumbs": [
+      "more stuff"
+    ]
+  }
+]
