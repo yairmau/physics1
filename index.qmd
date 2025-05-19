@@ -1,0 +1,16 @@
+# about {.unnumbered}
+I taught the Physics 1 course in Mechanics at the Faculty of Agriculture, Hebrew University, from 2017 to 2021. Although I don't teach this any longer, I think that the materials I developed for the course might be useful to some. Most of the material found here is in hebrew.
+
+## goals {.unnumbered}
+
+This basic Physics course has three main goals:
+
+* By the end of this course you will be able to look at the world around you and start describing it in a formal (mathematical) language.
+* By the end of this course you will be able to read a graph and tell the story behind it, i.e., you will translate a formal (mathematical) language into regular speech any human can understand.
+* We will get acquainted with the concept of Energy. This, in my humblest opinion, is one of the most important ideas in Science.
+
+## patron saint {.unnumbered}
+
+Galileo is undoubtedly our hero in this course. Honorable runners-up: Archimedes and Newton.
+
+![](/archive/gifs/Galileo-quote.png)

@@ -1,0 +1,36 @@
+## lecture notes {.unnumbered}
+
+**Book:**
+I loosely use Halliday & Resnick's *Principles of Physics* (11th edtion).  
+**Software:**
+I use [Stylus Labs Write](http://www.styluslabs.com/) to write my classnotes, it is available for Windows, Mac, Linux, Android, and iOS.  
+**Hardware:**
+I use both a Wacom Cintiq 16 and an iPad air.  
+**Legend:**  
+{{< iconify bi file-earmark-pdf-fill >}} lecture notes pdf   
+{{< iconify teenyicons svg-outline >}} lecture notes source (write) svgz  
+{{< iconify fa-regular file-powerpoint >}} powerpoint  
+{{< iconify simple-icons jupyter >}} widget in jupyter notebook (might take a while to load...)  
+{{< iconify fa-solid images >}} other materials  
+{{< iconify teenyicons gif-outline >}} animations and gifs  
+
+ 
+| subject | lectures | other |
+|:---|:---|:---|
+| basic math |  | [{{< iconify fa-solid images >}}](/extra/extra-basic-math.qmd) |
+| units | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-00-units.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-00-units.svgz) | [{{< iconify fa-solid images >}}](extra/extra-units.qmd) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/units.qmd) |
+| 1d kinematics | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-01-kinematics1d.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-01-kinematics1d.svgz) | [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/kinematics1d.pptx) &ensp; [{{< iconify simple-icons jupyter >}}](https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Finstantaneous_velocity.ipynb) &ensp; [{{< iconify fa-solid images >}}](extra/extra-1d-kinematics.qmd) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/kinematics.qmd) |
+| vectors | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-02-vectors.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-02-vectors.svgz) |
+| 2d kinematics | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-02-kinematics-2d.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-kinematics-2d.svgz) | [{{< iconify simple-icons jupyter >}}](https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Fmax_range_alpha.ipynb) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/kinematics.qmd) |
+| circular motion | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-02-circular-motion.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-02-circular-motion.svgz) | [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/circular-motion.pptx) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/kinematics.qmd) |
+| Newton's laws | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-03-newtons-laws.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-03-newtons-laws.svgz) | [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/newton1and2.pptx) &ensp; [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/newton3.pptx) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/newtons-laws.qmd) |
+| work-energy theorem | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-04-work-energy.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-04-work-energy.svgz) | [{{< iconify simple-icons jupyter >}}](https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Friemann_integral.ipynb) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/energy.qmd) |
+| potential energy | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-04-potential-energy-U.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-04-potential-energy-U.svgz) | [{{< iconify teenyicons gif-outline >}}](/gifs/energy.qmd) |
+| potential energy diagrams | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-04-potential-energy-diagram.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-04-potential-energy-diagram.svgz)
+| linear momentum | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-05-linear-momentum.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-05-linear-momentum.svgz) | [{{< iconify teenyicons gif-outline >}}](/gifs/linear-momentum.qmd) &ensp; [{{< iconify fa-solid images >}}](extra/extra-momentum.qmd )|
+| gravitation | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-06-gravitation.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-06-gravitation.svgz) | [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/earth-moon.pptx) |
+| hydrostatics | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-07-hydrostatics.pdf)  &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-07-hydrostatics.svgz) | [{{< iconify teenyicons gif-outline >}}](/gifs/fluids.qmd) |
+| hydrodynamics | [{{< iconify bi file-earmark-pdf-fill >}}](/archive/lectures/guide-07-hydrodynamics.pdf) &ensp; [{{< iconify teenyicons svg-outline >}}](/archive/lectures/guide-07-hydrodynamics.svgz) | [{{< iconify fa-regular file-powerpoint >}}](/archive/lectures/hydrodynamics.pptx) &ensp; [{{< iconify teenyicons gif-outline >}}](/gifs/fluids.qmd)|
+
+[Click here](https://docs.google.com/spreadsheets/d/1b0t98d7-tW82mCmukKrkjHK8gLdNHGRLrD-HxN_luNc/edit#gid=0) for details on all lectures of the 2021-22 academic year.  
+Here are other [very nice videos](/gifs/wow.qmd) not directly related to any specific topic.

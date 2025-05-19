@@ -1,0 +1,11 @@
+## more stuff {.unnumbered}
+
+[Physics cartoons](/gifs/cartoons.qmd)
+
+Great online Physics resources:
+
+* [Khan Academy - English](https://www.khanacademy.org/science/physics)
+* [Khan Academy - עברית](http://www.hebrewkhan.org/#physics)
+* [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen/playlists)
+* [Walter Lewin's 8.01x - MIT Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+* [PhET: fun, free, interactive, research-based science and mathematics simulations](https://phet.colorado.edu/en/simulations/filter?subjects=motion,work-energy-and-power&type=html&sort=alpha&view=grid)
