@@ -29,12 +29,13 @@ book:
       - gifs/fluids.qmd
       - gifs/wow.qmd
     - exams.qmd
+    - part: "widgets"
+      chapters:
+      - widgets/instantaneous_velocity.ipynb
     - more.qmd
   sidebar:
     collapse-level: 2
-    tools:
-      - icon: house-fill
-        href: https://yairmau.com/
+    header: "[← Back to yairmau.com](https://yairmau.com/){.back-home}"
     logo: archive/logo.png
   search: true
 

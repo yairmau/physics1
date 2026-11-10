@@ -1,5 +1,8 @@
 ## exams {.unnumbered}
-Some past exams (in hebrew):
+Some past exams, in hebrew.
+
+{{< iconify bi question-square-fill >}} = questions  
+{{< iconify bi exclamation-square >}} = answers
 
 | Year | Midterm | Moed A | Moed B | Moed C |
 |:---:|:---:|:---:|:---:|:---:|
