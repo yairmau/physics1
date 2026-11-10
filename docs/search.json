@@ -507,9 +507,20 @@
     "href": "exams.html",
     "title": "exams",
     "section": "",
-    "text": "Some past exams (in hebrew):\n\n\n\nYear\nMidterm\nMoed A\nMoed B\nMoed C\n\n\n\n\n2021-2022\n   \n   \n   \n\n\n\n2020-2021\n   \n   \n   \n\n\n\n2019-2020\n   \n   \n   \n   \n\n\n2018-2019\n   \n   \n   \n\n\n\n2017-2018",
+    "text": "Some past exams, in hebrew.\n = questions\n = answers\n\n\n\nYear\nMidterm\nMoed A\nMoed B\nMoed C\n\n\n\n\n2021-2022\n   \n   \n   \n\n\n\n2020-2021\n   \n   \n   \n\n\n\n2019-2020\n   \n   \n   \n   \n\n\n2018-2019\n   \n   \n   \n\n\n\n2017-2018",
     "crumbs": [
       "exams"
+    ]
+  },
+  {
+    "objectID": "widgets/instantaneous_velocity.html",
+    "href": "widgets/instantaneous_velocity.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport ipywidgets as widgets\nfrom ipywidgets import interactive\nimport seaborn as sns\nsns.set_theme(style=\"ticks\", font_scale=1.5)\n%matplotlib widget\n\n\nimport ipywidgets as widgets\nwidgets.IntSlider()\n\n\n\n\n\nfig, ax = plt.subplots(figsize=(9,6))\nt = np.linspace(-5, 20, 101)\nfoo = lambda t: (t**3 - 15*t**2 + 300) / 100\nx = foo(t)\nTmiddle = 15\ndeltaT = 5\n\nax.set(xlim=[-5,20],\n       ylim=[-5,20],\n       ylabel=\"y\",\n       xticks=np.arange(-5,21,5),\n       xlabel=\"time\",\n      )\nax.set_ylabel(\"x(t)\", rotation=\"horizontal\",labelpad=15)\n\n\ndef plot_all_lines(T, dt):\n    ax.plot(t, x, color=\"red\", lw=3)\n    t0 = T - dt/2\n    t1 = T + dt/2\n    x0 = foo(t0)\n    x1 = foo(t1)\n    ax.plot([t0,t1], [x0,x1], color=\"blue\", lw=2)\n    \n    ax.plot([t0,t1], [x0,x0], color=\"gray\")\n    ax.plot([t1,t1], [x0,x1], color=\"gray\")\n    ax.text(T, x0, r\"$\\Delta t$\", fontsize=20, va=\"top\")\n    ax.text(t1, (x1+x0)/2, r\"$\\Delta x$\", fontsize=20)\n    \n    slope = (3*T**2 - 30*T) / 100\n    intercept = foo(T) - slope*T\n    Tmin = -100\n    Tmax = 100\n    line = lambda t: slope*t + intercept\n    ax.plot([Tmin, Tmax], [line(Tmin), line(Tmax)],\n            color=\"black\", ls=\":\")\n    \nplot_all_lines(Tmiddle, deltaT)\n\n@widgets.interact(Tmiddle=(-4, 17, 0.5), deltaT=(0, 8, 0.2))\ndef update(Tmiddle = 15, deltaT = 5):\n    \"\"\"Remove old lines from plot and plot new one\"\"\"\n    [l.remove() for l in ax.lines]\n    [l.remove() for l in ax.lines]\n    [l.remove() for l in ax.lines]\n    [l.remove() for l in ax.texts]\n    [l.remove() for l in ax.texts]\n    plot_all_lines(Tmiddle, deltaT)",
+    "crumbs": [
+      "widgets",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>instantaneous_velocity.html</span>"
     ]
   },
   {
