@@ -1,12 +1,15 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - archive/logo/favicon.ico
+    - archive/logo/apple-touch-icon.png
 
 book:
   title: "Physics 1 - Mechanics"
   author: "Yair Mau"
   repo-url: https://github.com/yairmau/physics1/
-  favicon: archive/logo.png
+  favicon: archive/logo/favicon.svg
 
   # date: "29.3.2025"
   chapters:
@@ -36,7 +39,7 @@ book:
   sidebar:
     collapse-level: 2
     header: "[← Back to yairmau.com](https://yairmau.com/){.back-home}"
-    logo: archive/logo.png
+    logo: archive/logo/favicon.svg
   search: true
 
 # bibliography: references.bib
