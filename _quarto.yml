@@ -10,6 +10,7 @@ book:
   author: "Yair Mau"
   repo-url: https://github.com/yairmau/physics1/
   favicon: archive/logo/favicon.svg
+  google-analytics: "G-43N4LS3BPR"
 
   # date: "29.3.2025"
   chapters:
